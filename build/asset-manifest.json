@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e203b0e7.chunk.js",
+    "main.js.map": "/static/js/main.e203b0e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11f320ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11f320ca.js.map",
+    "static/css/2.72c483b3.chunk.css": "/static/css/2.72c483b3.chunk.css",
+    "static/js/2.f31e0bac.chunk.js": "/static/js/2.f31e0bac.chunk.js",
+    "static/js/2.f31e0bac.chunk.js.map": "/static/js/2.f31e0bac.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.72c483b3.chunk.css.map": "/static/css/2.72c483b3.chunk.css.map",
+    "static/js/2.f31e0bac.chunk.js.LICENSE.txt": "/static/js/2.f31e0bac.chunk.js.LICENSE.txt",
+    "static/media/Andrey.d8167bb0.jpg": "/static/media/Andrey.d8167bb0.jpg",
+    "static/media/Dunin.36390ae2.jpeg": "/static/media/Dunin.36390ae2.jpeg",
+    "static/media/Dunin_1.7cea8b7b.jpg": "/static/media/Dunin_1.7cea8b7b.jpg",
+    "static/media/Dunin_2.74552d1c.jpg": "/static/media/Dunin_2.74552d1c.jpg",
+    "static/media/Kolas-book1.26469dc3.jpg": "/static/media/Kolas-book1.26469dc3.jpg",
+    "static/media/Kolas-book2.94a18476.jpg": "/static/media/Kolas-book2.94a18476.jpg",
+    "static/media/Kolas.42a71552.jpg": "/static/media/Kolas.42a71552.jpg",
+    "static/media/Kolas_1.26469dc3.jpg": "/static/media/Kolas_1.26469dc3.jpg",
+    "static/media/Kolas_2.94a18476.jpg": "/static/media/Kolas_2.94a18476.jpg",
+    "static/media/Kupale.5ff2ad63.jpg": "/static/media/Kupale.5ff2ad63.jpg",
+    "static/media/Kupale_1.0c843f03.jpg": "/static/media/Kupale_1.0c843f03.jpg",
+    "static/media/Kupale_2.16374b58.jpg": "/static/media/Kupale_2.16374b58.jpg",
+    "static/media/Maxim.f2727123.jpg": "/static/media/Maxim.f2727123.jpg",
+    "static/media/Rygor_1.f1ea1ba1.jpeg": "/static/media/Rygor_1.f1ea1ba1.jpeg",
+    "static/media/Rygor_2.3f24cd90.jpeg": "/static/media/Rygor_2.3f24cd90.jpeg",
+    "static/media/Ryhor.c54e7e54.jpg": "/static/media/Ryhor.c54e7e54.jpg",
+    "static/media/Zuenok.7ee1fcd4.jpg": "/static/media/Zuenok.7ee1fcd4.jpg",
+    "static/media/Zuenok_1.954ea1d5.jpg": "/static/media/Zuenok_1.954ea1d5.jpg",
+    "static/media/Zuenok_2.3db75eb8.jpg": "/static/media/Zuenok_2.3db75eb8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11f320ca.js",
+    "static/css/2.72c483b3.chunk.css",
+    "static/js/2.f31e0bac.chunk.js",
+    "static/js/main.e203b0e7.chunk.js"
+  ]
+}
